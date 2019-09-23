@@ -1,0 +1,4 @@
+- Make the client service-agnostic and add backend handlers
+- Finish python packaging
+- Add unit tests
+- Add usable front-end script
